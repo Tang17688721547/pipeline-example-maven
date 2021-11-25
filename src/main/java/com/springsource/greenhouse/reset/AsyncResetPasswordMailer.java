@@ -39,6 +39,7 @@ public final class AsyncResetPasswordMailer implements ResetPasswordMailer {
 	public AsyncResetPasswordMailer(Converter<ResetPasswordRequest, SimpleMailMessage> converter, MailSender mailSender) {
 		this.converter = converter;
 		this.mailSender = mailSender;
+		this.mailSender=mailSender;
 	}
 
 	@Async
