@@ -399,7 +399,7 @@
 		<repository>
 			<id>spring-snapshot</id>
 			<name>SpringSource Snapshot Repository</name>
-			<url>http://repo.springsource.org/snapshot</url>
+			<url>https://repo.springsource.org/snapshot</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
@@ -411,7 +411,7 @@
 		<repository>
 			<id>spring-repository</id>
 			<name>SpringSource Repository</name>
-			<url>http://repo.springsource.org/release</url>
+			<url>https://repo.springsource.org/release</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -420,7 +420,7 @@
 		<repository>
 			<id>spring-milestone</id>
 			<name>SpringSource Milestone Repository</name>
-			<url>http://repo.springsource.org/milestone</url>
+			<url>https://repo.springsource.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -626,7 +626,7 @@
 		<pluginRepository>
 			<id>spring-snapshot</id>
 			<name>SpringSource Snapshot Repository</name>
-			<url>http://repo.springsource.org/snapshot</url>
+			<url>https://repo.springsource.org/snapshot</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
@@ -638,7 +638,7 @@
 		<pluginRepository>
 			<id>spring-repository</id>
 			<name>SpringSource Repository</name>
-			<url>http://repo.springsource.org/release</url>
+			<url>https://repo.springsource.org/release</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -647,7 +647,7 @@
 		<pluginRepository>
 			<id>spring-milestone</id>
 			<name>SpringSource Milestone Repository</name>
-			<url>http://repo.springsource.org/milestone</url>
+			<url>https://repo.springsource.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
